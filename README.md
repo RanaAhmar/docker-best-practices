@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/docker-best-practices?style=for-the-badge)](https://github.com/RanaAhmar/docker-best-practices/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/docker-best-practices?style=for-the-badge)](https://github.com/RanaAhmar/docker-best-practices/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/docker-best-practices/blob/main/LICENSE)
+
 # 🐳 Docker Best Practices
 
 Production-ready Dockerfiles for 15+ languages with security and size optimization. Built for performance and security by **Ahmar Hussain** at **Stackaura**.
@@ -46,6 +48,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 
 
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
